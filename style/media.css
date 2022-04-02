@@ -1,0 +1,641 @@
+@media (min-width: 1200px) {}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .nav-item {
+        padding-left: 5px;
+    }
+
+    .form-control {
+        width: 220px !important;
+        margin-bottom: 10px !important;
+    }
+
+    /* .header__menu-end a {
+        padding-left: 20px !important;
+    } */
+
+    .pros-div {
+        margin: 30px 15px !important;
+    }
+
+    .header__card {
+        width: max-content;
+        height: max-content;
+        padding: 35px;
+    }
+
+    .asd-2 {
+        left: 3% !important;
+        top: 5%;
+    }
+
+    .header__card h1 {
+        font-family: 'Gilroy-SemiBold';
+        color: #3a3a3a;
+        font-size: 32px;
+        width: 250px;
+    }
+
+    .header__card p {
+        font-size: 16px;
+        width: 250px;
+    }
+
+    .header__card a {
+        font-size: 16px;
+        height: 50px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .header-menu nav div a {
+        order: 2;
+    }
+
+    .navbar-toggler {
+        order: 1;
+    }
+
+    .header__menu-end {
+        order: 3;
+    }
+
+    .header-menu nav div a:first-child {
+        padding-left: 0;
+    }
+
+    .pros-div {
+        margin: 30px 30px !important;
+    }
+
+    .form-control {
+        margin-bottom: 10px !important;
+    }
+
+    .products .container h1 {
+        padding: 10px 0 50px 0;
+    }
+
+    .pros {
+        padding: 50px 0 50px 0;
+    }
+
+    .cards {
+        justify-content: center !important;
+
+    }
+
+    .products__card {
+        margin: 15px;
+    }
+
+    .header__card {
+        width: max-content;
+        height: max-content;
+        padding: 35px;
+    }
+
+    .asd-2 {
+        left: 6% !important;
+        top: 18%;
+    }
+
+    .header__card h1 {
+        font-family: 'Gilroy-SemiBold';
+        color: #3a3a3a;
+        font-size: 32px;
+        width: 250px;
+    }
+
+    .header__card p {
+        font-size: 16px;
+        width: 250px;
+    }
+
+    .header__card a {
+        font-size: 16px;
+        height: 50px;
+    }
+
+    .slider-second {
+        position: static;
+    }
+
+    .image-slider-second .swiper-slide-active,
+    .image-slider-second .swiper-slide-active img {
+        transform: scale(1.2) translate(0px, 12px);
+        transition: transform 0.6s;
+    }
+    
+    .beautiful-rooms {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .beautiful-rooms-left {
+        padding: 0;        
+    }
+
+    .swiper-button-prev,
+    .swiper-button-next {
+        display: none;
+    }
+
+    .rooms {
+        height: 760px;
+    }
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .header-menu nav div a {
+        order: 2;
+    }
+
+    .navbar-toggler {
+        order: 1;
+    }
+
+    .header__menu-end {
+        order: 3;
+    }
+
+    .header-menu nav div a {
+        padding-left: 10px;
+    }
+
+    .header-menu nav div a:first-child {
+        padding-left: 0;
+    }
+
+    .pros-div {
+        margin: 30px 15px !important;
+    }
+
+    .form-control {
+        margin-bottom: 10px !important;
+    }
+
+    .cards {
+        justify-content: center !important;
+
+    }
+
+    .products__card {
+        margin: 15px;
+    }
+
+    .sendMail {
+        margin: 0 !important;
+    }
+
+    .header__card {
+        width: max-content;
+        height: max-content;
+        padding: 35px;
+    }
+
+    .header-slider {
+        margin: 20px 0 0 0 !important;
+    }
+
+    .pros {
+        padding: 20px 0;
+    }
+
+    .asd-2 {
+        position: static !important;
+        order: 2;
+        margin: 20px auto;
+    }
+
+    .image-slider {
+        flex-direction: column;
+    }
+
+    .header__card h1 {
+        font-family: 'Gilroy-SemiBold';
+        color: #3a3a3a;
+        font-size: 32px;
+        width: 250px;
+    }
+
+    .header__card p {
+        font-size: 16px;
+        width: 250px;
+    }
+
+    .header__card a {
+        font-size: 16px;
+        height: 50px;
+    }
+
+    .image-slider__image {
+        padding-left: 0 !important;
+    }
+
+    .slider-second {
+        position: static;
+    }
+
+    .image-slider-second .swiper-slide-active,
+    .image-slider-second .swiper-slide-active img {
+        transform: scale(1.11) translate(0px, 14px);
+        transition: transform 0.2s;
+    }
+    
+    .beautiful-rooms {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .beautiful-rooms-left {
+        padding: 0;        
+    }
+
+    .swiper-button-prev,
+    .swiper-button-next {
+        display: none;
+    }
+
+    .rooms {
+        height: 790px;
+    }
+
+
+
+
+}
+
+@media (min-width: 480px) and (max-width: 575.98px) {
+
+    .container {
+        width: 450px;
+    }
+
+    .navbar {
+        height: max-content !important;
+    }
+
+    .form-control {
+        margin-bottom: 10px !important;
+    }
+
+    .header-menu nav div a {
+        order: 2;
+    }
+
+    .navbar-toggler {
+        order: 1;
+    }
+
+    .header__menu-end {
+        order: 3;
+    }
+
+    .header-menu nav div a:first-child {
+        padding-left: 0;
+    }
+
+    .pros-div {
+        margin: 30px 0 !important;
+    }
+
+    .container.pros {
+        padding: 25px 0;
+    }
+
+    .cards {
+        justify-content: center !important;
+
+    }
+
+    .products__card {
+        margin: 15px;
+    }
+
+    .sendMail {
+        margin: 0 !important;
+    }
+
+    .header-slider {
+        margin: 10px 0 !important;
+    }
+
+    .pros {
+        padding: 20px 0;
+    }
+
+    .asd-2 {
+        position: static !important;
+        order: 2;
+        margin: 60px auto;
+    }
+
+    .image-slider {
+        flex-direction: column;
+        height: 760px;
+    }
+
+    .header__card h1 {
+        font-family: 'Gilroy-SemiBold';
+        color: #3a3a3a;
+        font-size: 32px;
+        width: 250px;
+    }
+
+    .header__card p {
+        font-size: 16px;
+        width: 250px;
+    }
+
+    .header__card a {
+        font-size: 16px;
+        height: 50px;
+    }
+
+    .image-slider__image {
+        padding-left: 0 !important;
+    }
+
+    .image-slider__text {
+        padding: 15px 25px 15px 15px !important;
+        margin: 15px !important;
+    }
+
+    .image-slider__text-1 {
+        font-size: 20px !important;
+    }
+
+    .image-slider__text-2 {
+        font-size: 14px !important;
+    }
+
+    .image-slider__text-3 {
+        font-size: 16px !important;
+    }
+    .swiper-button-prev,
+    .swiper-button-next,
+    .prev-next {
+        display: none;
+    }
+
+    .header-slider .swiper-pagination {
+        position: absolute;
+        top: 250px;
+    }
+
+    .slider-second {
+        position: static;
+    }
+
+    .image-slider-second .swiper-slide-active,
+    .image-slider-second .swiper-slide-active img {
+        transform: scale(1.2) translate(0px, 14px);
+        transition: transform 0.2s;
+    }
+    
+    .beautiful-rooms {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .beautiful-rooms-left {
+        padding: 0;        
+    }
+
+    .swiper-button-next {
+        display: none;
+    }
+
+    .rooms {
+        height: 710px;
+    }
+
+    .image-slider-second {
+        height: 420px;
+    }
+
+    .tips h1 {
+        font-size: 32px !important;
+    }
+
+    .swiper-third__text h2 {
+        font-size: 20px !important;
+    }
+
+}
+
+@media (min-width: 320px) and (max-width: 479.98px) {
+
+    .container {
+        width: 300px;
+    }
+
+    .navbar {
+        height: max-content !important;
+    }
+
+    .form-control {
+        margin-bottom: 10px !important;
+    }
+
+    .header-menu nav div a {
+        order: 2;
+        padding-left: 5px;
+    }
+
+    .navbar-toggler {
+        order: 1;
+    }
+
+    .header__menu-end {
+        order: 3;
+    }
+
+    .header-menu nav div a:first-child {
+        padding-left: 0;
+    }
+
+    .header-slider {
+        margin: 10px 0 !important;
+    }
+
+    .pros {
+        padding: 25px 0 25px 25px;
+        justify-content: center;
+    }
+
+    .pros-div {
+        margin: 30px 0 !important;
+    }
+
+    .sendMail {
+        margin: 0 !important;
+    }
+
+
+    .cards {
+        justify-content: center !important;
+
+    }
+
+    .products__card {
+        margin: 15px;
+    }
+
+    footer .container {
+        justify-content: start;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    footer .container div {
+        justify-content: start;
+        margin: 0 15px;
+    }
+
+    .pros {
+        padding: 20px 0;
+    }
+
+    .asd-2 {
+        position: static !important;
+        order: 2;
+        margin: 80px auto;
+    }
+
+    .image-slider {
+        flex-direction: column;
+        height: 630px;
+    }
+
+    .header__card {
+        padding: 30px 25px;
+    }
+
+    .header__card h1 {
+        font-family: 'Gilroy-SemiBold';
+        color: #3a3a3a;
+        font-size: 24px;
+        width: 230px;
+    }
+
+    .header__card p {
+        font-size: 14px;
+        width: 230px;
+    }
+
+    .header__card a {
+        font-size: 14px;
+        height: 50px;
+    }
+
+    .image-slider__image {
+        padding-left: 0 !important;
+    }
+
+    .image-slider__text {
+        padding: 15px 25px 15px 15px !important;
+        margin: 15px !important;
+    }
+
+    .image-slider__text-1 {
+        font-size: 20px !important;
+    }
+
+    .image-slider__text-2 {
+        font-size: 14px !important;
+    }
+
+    .image-slider__text-3 {
+        font-size: 16px !important;
+    }
+    .swiper-button-prev,
+    .swiper-button-next,
+    .prev-next {
+        width: 90px;
+    }
+
+    .swiper-button-prev,
+    .swiper-button-next,
+    .swiper-button-prev::after,
+    .swiper-button-next::after {
+        width: 30px !important;
+        height: 30px !important;
+    }
+
+    .prev-next {
+        display: none;
+    }
+
+    .header-slider .swiper-pagination {
+        position: absolute;
+        top: 100px !important;
+    }
+
+    .slider-second {
+        position: static;
+    }
+
+    .image-slider-second {
+        height: 470px;
+    }
+
+    
+
+    .image-slider-second .swiper-slide-active,
+    .image-slider-second .swiper-slide-active img {
+        transform: none
+    }
+    
+    .beautiful-rooms {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .beautiful-rooms-left {
+        padding: 0;        
+    }
+
+    .rooms-left__h1{
+        font-size: 30px !important;
+    }
+
+    .beautiful-rooms-left p {
+        font-size: 14px;
+    }
+    .swiper-button-prev,
+    .swiper-button-next,
+    .prev-next {
+        display: none;
+    }
+
+    .rooms {
+        height: 750px;
+    }
+
+    .tips h1 {
+        font-size: 32px !important;
+    }
+
+    .swiper-third__text h2 {
+        font-size: 20px !important;
+    }
+
+    .funiro span{
+        font-size: 30px !important;
+        line-height: 30px;
+    }
+    
+    .funiro p{
+        font-size: 16px !important;
+        line-height: 16px;
+    }
+
+}
